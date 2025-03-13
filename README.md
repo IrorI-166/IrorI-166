@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently learning to Web developing with TypeScript and bun.js
+
+[![My Launguage skill](https://skillicons.dev/icons?i=js,html,css,typescript)](https://skillicons.dev)
